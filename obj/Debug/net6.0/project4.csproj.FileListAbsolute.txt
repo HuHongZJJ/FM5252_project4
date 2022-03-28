@@ -1,0 +1,15 @@
+/home/huhong/Documents/FM5222_HW/project4/bin/Debug/net6.0/project4
+/home/huhong/Documents/FM5222_HW/project4/bin/Debug/net6.0/project4.deps.json
+/home/huhong/Documents/FM5222_HW/project4/bin/Debug/net6.0/project4.runtimeconfig.json
+/home/huhong/Documents/FM5222_HW/project4/bin/Debug/net6.0/project4.dll
+/home/huhong/Documents/FM5222_HW/project4/bin/Debug/net6.0/project4.pdb
+/home/huhong/Documents/FM5222_HW/project4/obj/Debug/net6.0/project4.csproj.AssemblyReference.cache
+/home/huhong/Documents/FM5222_HW/project4/obj/Debug/net6.0/project4.GeneratedMSBuildEditorConfig.editorconfig
+/home/huhong/Documents/FM5222_HW/project4/obj/Debug/net6.0/project4.AssemblyInfoInputs.cache
+/home/huhong/Documents/FM5222_HW/project4/obj/Debug/net6.0/project4.AssemblyInfo.cs
+/home/huhong/Documents/FM5222_HW/project4/obj/Debug/net6.0/project4.csproj.CoreCompileInputs.cache
+/home/huhong/Documents/FM5222_HW/project4/obj/Debug/net6.0/project4.dll
+/home/huhong/Documents/FM5222_HW/project4/obj/Debug/net6.0/refint/project4.dll
+/home/huhong/Documents/FM5222_HW/project4/obj/Debug/net6.0/project4.pdb
+/home/huhong/Documents/FM5222_HW/project4/obj/Debug/net6.0/project4.genruntimeconfig.cache
+/home/huhong/Documents/FM5222_HW/project4/obj/Debug/net6.0/ref/project4.dll
