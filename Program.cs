@@ -44,7 +44,7 @@ namespace project4
                     Console.WriteLine(item);
                 }
             }
-            else if (Choice == "CorrNormPair");
+            else if (Choice == "CorrNormPair")
             {   
                 double [,] Arrays = new  double [Count, 2];
                 Console.WriteLine("Corration Normal Distribution pairs");
@@ -135,8 +135,8 @@ namespace project4
             {
                 for(int i = 0; i < sampleSize; i++)
                 {
-                    double e1 = r4_1.NextGaussian();
-                    double e2 = r4_2.NextGaussian();
+                    double e1 = r4_1.NextDouble();
+                    double e2 = r4_2.NextDouble();
                     double z1 = e1;
                     double z2 = corr * e1 + Math.Sqrt(1 - corr * corr) * e2;
                     CorrNormPairsArray[i,0] = z1;
