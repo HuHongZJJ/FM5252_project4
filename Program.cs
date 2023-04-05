@@ -73,7 +73,7 @@ namespace project4
                 {
                     result = result + r1.NextDouble();
                 }
-                result = result / 6.0;
+                result = result - 6.0;
                 Sum12Norm[i] = result;
     
             }
